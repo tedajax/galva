@@ -1,0 +1,43 @@
+---
+BasedOnStyle: LLVM
+UseTab: AlignWithSpaces
+IndentWidth: 4
+TabWidth: 4
+#BreakBeforeBraces: Allman
+IndentCaseLabels: true
+ColumnLimit: 100
+AlignAfterOpenBracket: AlwaysBreak
+AlignOperands: true
+AlignTrailingComments: true
+BinPackArguments: false
+BinPackParameters: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AccessModifierOffset: -4
+NamespaceIndentation: All
+AllowShortBlocksOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakTemplateDeclarations: true
+DerivePointerAlignment: true
+PointerBindsToType: true
+PointerAlignment: Left
+BreakBeforeBinaryOperators: NonAssignment
+BreakBeforeBraces: Custom
+PenaltyReturnTypeOnItsOwnLine: 100000
+IndentPPDirectives: None
+AlwaysBreakAfterReturnType: TopLevelDefinitions
+BraceWrapping:
+  AfterClass:      true
+  AfterControlStatement: Always
+  AfterEnum:       true
+  AfterFunction:   true
+  AfterNamespace:  true
+  AfterObjCDeclaration: true
+  AfterStruct:     true
+  AfterUnion:      true
+  BeforeCatch:     true
+  BeforeElse:      true
+  IndentBraces:    false
+  SplitEmptyFunction: true
+  SplitEmptyRecord: true
+  SplitEmptyNamespace: true

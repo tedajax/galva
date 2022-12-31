@@ -1,0 +1,54 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sokol_app.h": "c",
+			"sokol_glue.h": "c",
+			"sprite_draw.h": "c",
+			"sokol_gfx.h": "c",
+			"gl3w.h": "c",
+			"handmademath.h": "c",
+			"xlocnum": "c",
+			"array": "c",
+			"initializer_list": "c",
+			"list": "c",
+			"type_traits": "c",
+			"vector": "c",
+			"xhash": "c",
+			"xstring": "c",
+			"xtree": "c",
+			"rnd.h": "c",
+			"crowmath.h": "c",
+			"cgltf.h": "c",
+			"istream": "c",
+			"*.rh": "c",
+			"stb_ds.h": "c",
+			"stb_image.h": "c",
+			"sokol_nuklear.h": "c",
+			"nuklear.h": "c",
+			"sokol_gl.h": "c",
+			"gouraud.h": "c",
+			"gouraud.glsl.h": "c",
+			"sokol_time.h": "c",
+			"sokol_shape.h": "c",
+			"sokol_debugtext.h": "c",
+			"thread": "c",
+			"xlocale": "c",
+			"memory": "c",
+			"cstdlib": "c",
+			"xutility": "c",
+			"strpool.h": "c",
+			"algorithm": "cpp",
+			"atomic": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"xmemory0": "cpp",
+			"assetsdb.h": "c",
+			"assetdb.h": "c"
+		}
+	}
+}
