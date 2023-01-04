@@ -22,6 +22,7 @@ project "galva"
 	cdialect "C11"
 	location "bin/galva"
 	files { "src/**.c", "src/**.h", "src/**.inl" }
+	debugdir "."
 
 	filter "platforms:Win64"
 		filter "configurations:Release"

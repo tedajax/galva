@@ -19,7 +19,9 @@
         "crowmath.h": "c",
         "objzero.h": "c",
         "assetsys.h": "c",
-        "strpool.h": "c"
+        "strpool.h": "c",
+        "raylib.h": "c",
+        "raymath.h": "c"
     },
     "game_target": "galva"
 }
